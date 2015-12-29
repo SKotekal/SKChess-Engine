@@ -7,4 +7,4 @@ Move search Algorithm => Currently only searches 2 ply (moves) ahead. Thus, its 
 
 Some bugs with bishop and queen movement. 
 
-Need to encorporate en passant and castling. 
+Need to incorporate en passant and castling. 
